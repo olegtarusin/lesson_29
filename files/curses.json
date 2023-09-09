@@ -1,0 +1,85 @@
+{
+    "curses": [
+        {
+            "id": 1,
+            "group": "Marketing",
+            "title": "The Ultimate Google Ads Training Course",
+            "prise": "$100",
+            "groupMod": "group--green",
+            "name": "by Jerome Bell",
+            "photo": "img/curses/marketing/mark1.jpg"
+        },
+        {
+            "id": 2,
+            "group": "Management",
+            "title": "Prduct Management Fundamentals",
+            "prise": "$480",
+            "groupMod": "group--blue",
+            "name": "by Marvin McKinney",
+            "photo": "img/curses/managment/manag1.jpg"
+        },
+        {
+            "id": 3,
+            "group": "HR & Recruting",
+            "title": "HR  Management and Analytics",
+            "prise": "$200",
+            "groupMod": "group--orange",
+            "name": "by Leslie Alexander Li",
+            "photo": "img/curses/hr/hr1.jpg"
+        },
+        {
+            "id": 4,
+            "group": "Marketing",
+            "title": "Brand Management & PR Communications",
+            "prise": "$530",
+            "groupMod": "group--green",
+            "name": "by Kristin Watson",
+            "photo": "img/curses/marketing/mark2.jpg"
+        },
+        {
+            "id": 5,
+            "group": "Design",
+            "title": "Graphic Design Basic",
+            "prise": "$500",
+            "groupMod": "group--pinck",
+            "name": "by Guy Hawkins",
+            "photo": "img/curses/design/des1.jpg"
+        },
+        {
+            "id": 6,
+            "group": "Management",
+            "title": "Business Development Management",
+            "prise": "$400",
+            "groupMod": "group--blue",
+            "name": "by Dianne Russell",
+            "photo": "img/curses/managment/manag2.jpg"
+        },
+        {
+            "id": 7,
+            "group": "Development",
+            "title": "Highload Software Architecture",
+            "prise": "$600",
+            "groupMod": "group--purple",
+            "name": "by Brooklyn Simmons",
+            "photo": "img/curses/develop/develop1.jpg"
+        },
+        {
+            "id": 8,
+            "group": "HR & Recruting",
+            "title": "Human Resources – Selection and Recruitment",
+            "prise": "$150",
+            "groupMod": "group--orange",
+            "name": "by Kathryn Murphy",
+            "photo": "img/curses/hr/hr2.jpg"
+        },
+        {
+            "id": 9,
+            "group": "Design",
+            "title": "User Experience. Human-centered Design",
+            "prise": "$240",
+            "groupMod": "group--pinck",
+            "name": "by Cody Fisher",
+            "photo": "img/curses/design/des2.jpg"
+        }
+    ]
+}
